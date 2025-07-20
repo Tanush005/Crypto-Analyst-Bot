@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: n8n-bot
+    env: docker
+    repo: https://github.com/Tanush005/Crypto-Analyst-Bot
+    branch: main
+    plan: free
