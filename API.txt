@@ -1,3 +1,0 @@
-AIzaSyDijZ_VHrp9VypVQN3YgIFcCciM6S5o_Pc          gemini api
-EI8Zj6jY0aqPRhq5YswnSF6SGc827OzP                     mistral api
-7311971589:AAEVzd2hMpcXkjeNOlgxQcRTWL0VesnmSeM      telegram api
